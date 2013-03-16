@@ -1,4 +1,4 @@
 nodejsAppStructure
 ==================
 
-A simple structure for nodejs App (Using expressjs)
+A simple proposal about a structure for nodejs App (Using expressjs)
